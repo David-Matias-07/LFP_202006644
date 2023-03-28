@@ -1,0 +1,17 @@
+ {	{
+		"No.": 1
+		"Descripcion-Token":{
+			"Lexema":<
+			"Tipo": Error Lexico
+			"Fila": 1
+			"Columna": 2
+		}
+	},	{
+		"No.": 2
+		"Descripcion-Token":{
+			"Lexema":<
+			"Tipo": Error Lexico
+			"Fila": 35
+			"Columna": 2
+		}
+	},}
